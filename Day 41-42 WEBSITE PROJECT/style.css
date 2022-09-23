@@ -1,0 +1,28 @@
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+head {
+  color: antiquewhite;
+
+}
+body {
+  color: antiquewhite;
+  background-color: #082032;
+}
+h1{
+  color: #FF4C29;
+}
+h3 {
+  color: #FF4C29;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: #2C394B;
+}
