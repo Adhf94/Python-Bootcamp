@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My website</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <form action="{{url_for('my_form_post')}}" method="POST">
+    <label for="fname">First Name:</label><br>
+    <input name="text"  type="text"><br>
+    <input type="submit">
+    </form>
+    <hr>
+    <a href="{{ url_for('get_blog', num=3) }}">Go to blog</a>
+</body>
+<footer>
+<p>® {{year}} built By. Adrian Hurtado</p>
+</footer>
+</html>
