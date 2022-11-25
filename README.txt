@@ -43,5 +43,19 @@ Day 46: Spotify billboard playlist time machine project
 Day 47: Amazon Tracker project
 Day 48: Selenium web scrapping
 Day 49: Linkedin automated job aplications(Save job offers version) with selenium
-Day 50: tinder swipe bot with selenium
-Day 51: internet speed Twitter bot complainer with selenium
+Day 50: Tinder swipe bot with selenium
+Day 51: Internet speed Twitter bot complainer with selenium
+Day 52 : Automated Data Entry Job ( Needs google auth fixing)
+Day 53: Instagram following bot with selenium
+Day 54-55 : Web development with Flask
+Day 56: Rendering HTML, static files with Flask
+Day 57: Jinja-Flask templates
+Day 57.2: Blog project with Flask, jinja
+Day 58: Bootstrap Tindog website
+Day 59: Blog project, Bootstrap
+Day 60: Blog project, Form, post request, Flask- jinja
+Day 61: Flask WTF(needs bootstrap fixing)
+Day 62: Coffee & wifi project - Flask,Bootstrap, WTForms, CSV (needs bootstrap fixing)
+Day 63: Databases, SQLite & SQLAlchemy
+Day 63.2 : SQLite & SQLAlchemy
+Day 64: Top 10 Movies project with SQLAlchemy DB
