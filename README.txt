@@ -61,3 +61,4 @@ Day 63.2 : SQLite & SQLAlchemy
 Day 64: Top 10 Movies project with SQLAlchemy DB
 Day 65: Web Design class
 Day 66: Restful Apis with Flask,SQLAlchemy, jsonify, postman.
+Day 67: Restull Routing BLOG
