@@ -1,0 +1,1 @@
+Lost all the main.py due a missclick on a tools option of pycharm, had to re-do and copy things on the professors finished project.
