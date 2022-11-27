@@ -59,3 +59,5 @@ Day 62: Coffee & wifi project - Flask,Bootstrap, WTForms, CSV (needs bootstrap f
 Day 63: Databases, SQLite & SQLAlchemy
 Day 63.2 : SQLite & SQLAlchemy
 Day 64: Top 10 Movies project with SQLAlchemy DB
+Day 65: Web Design class
+Day 66: Restful Apis with Flask,SQLAlchemy, jsonify, postman.
