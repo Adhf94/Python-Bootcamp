@@ -63,4 +63,4 @@ Day 65: Web Design class
 Day 66: Restful Apis with Flask,SQLAlchemy, jsonify, postman.
 Day 67: Restull Routing BLOG
 Day 68: Authentication with Flask, Flask login
-Day 69: Relational DB, Protecting routes- Blog project continuation
+Day 69: Relational DB, Protecting routes- Blog project continuation https://bootcamp-blog.onrender.com/
